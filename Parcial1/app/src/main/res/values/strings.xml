@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Parcial1</string>
+    <string name="hr_extra">Horas Extras</string>
+    <string name="var_extra">Valor hr Extras</string>
+    <string name="pension">Pension 4%</string>
+    <string name="salud">Salud 4%</string>
+    <string name="sal_b">Salario Bruto</string>
+    <string name="sal_t">Salario Total</string>
+    <string name="empleado">Empleado</string>
+    <string name="calcular">Calcular</string>
+    <string name="sal">Salario</string>
+    <string name="Calcular_Salario">Calcular Salario</string>
+</resources>
